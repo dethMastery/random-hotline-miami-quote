@@ -1,5 +1,5 @@
 const quote = require('./modules/quote')
-const Index = require('./pages/index')
+const Index = require('./pages/home')
 const About = require('./pages/about')
 
 function Route(app, root) {
