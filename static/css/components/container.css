@@ -1,0 +1,36 @@
+.main-container {
+  width: 100%;
+  min-height: 100vh;
+
+  display: flex;
+  flex-direction: row;
+  
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+}
+
+.quote-container {
+  width: auto;
+}
+
+.quote-container p {
+  text-align: right;
+}
+
+.quote-container button {
+  background: #fe6e6f;
+  color: whitesmoke;
+
+  padding: 1rem;
+  font-size: 15px;
+
+  outline: none;
+  border: none;
+  border-radius: 10px;
+}
+
+.quote-container button:hover {
+  cursor: pointer;
+  opacity: .8;
+}
