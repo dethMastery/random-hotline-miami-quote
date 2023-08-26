@@ -23,6 +23,9 @@ const About = `<!DOCTYPE html>
       <p style="text-align: center;">
         If you love this site don't forgot to leave me some stars on my repository
       </p>
+      <p style="text-align: center;">
+        and if you want to contributed somethings just feel free to send me a pull request :)
+      </p>
       <div>
         - <a href="https://github.com/dethMastery/random-hotline-miami-quote" target="_blank">Repository</a> <br>
         - <a href="https://suphakit.net/contact" target="_blank">My contacts</a>
