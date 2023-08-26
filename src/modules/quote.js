@@ -36,3 +36,5 @@ const quotes = [
     by: 'Jacket 🧥'
   }
 ]
+
+module.exports = quotes
